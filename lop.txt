@@ -4,4 +4,4 @@ vmess://eyJpZCI6IjhmZjcwODk4LTY3OGEtNDAyMi1jMjZkLTBkMTBkNWYzNDkxNCIsImZwIjoiIiwi
 
 
 
-
+vless://b84b388f-6409-4bbf-cfd7-9c5d44979062@yat.olemam.shop:29624?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40webdw
